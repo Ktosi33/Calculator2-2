@@ -1,13 +1,13 @@
 //
-//  Calculator2_2UITests.swift
-//  Calculator2-2UITests
+//  CalculatorUITests.swift
+//  CalculatorUITests
 //
-//  Created by student on 18/03/1445 AH.
+//  Created by student on 03/10/2023.
 //
 
 import XCTest
 
-final class Calculator2_2UITests: XCTestCase {
+final class CalculatorUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
